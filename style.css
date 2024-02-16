@@ -1,0 +1,155 @@
+body {
+  font-family: 'Arial', sans-serif;
+  color: white;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.uploadSection {
+  width: 100%;
+  background-color: #212529;
+  padding: 40px;
+}
+
+h1 {
+  color: white;
+  margin-bottom: 30px;
+  font-size: 2em;
+  text-align: center;
+}
+
+input[type=file] {
+  width: 100%;
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+  height: 45px;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+input[type=file]::file-selector-button {
+  height: 45px;
+  background-color: white;
+  color: #212529;
+  border: 0px;
+  border-right: 1px solid white;
+  padding: 10px 15px;
+  margin-right: 20px;
+  transition: .5s;
+}
+
+input[type=file]::file-selector-button:hover {
+  width: 300px;
+  height: 45px;
+  background-color: white;
+  border: 0px;
+  border-right: 1px solid #e5e5e5;
+  border-radius: 10px;
+
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+}
+
+.download-btn {
+  margin: 0 10px;
+  text-decoration: none;
+  border: none;
+}
+
+.file-delete-btn {
+  margin: 0 10px;
+	color: red;
+  background: none;
+	border: none;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.files-section-title{
+  width: 80%;
+  margin-top: 60px;
+  color: #212529;
+  opacity: 75%;
+}
+
+#fileList {
+  width: 80%;
+  padding: 15px;
+  overflow-y: auto;
+  color: #212529;
+}
+
+#fileList div {
+  /* border-bottom: 1px solid #e9ecef; */
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#fileList div:hover {
+  border-radius: 10px;
+  padding: 10px 30px;
+}
+
+.fileList div strong {
+  font-weight: bold;
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.links a{
+  color: blue;
+}
+
+.links {
+  width: 80%;
+  padding: 15px;
+  color: #212529;
+}
+
+.upload-btn {
+  font-size: 20px;
+  width: 100%;
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+  height: 45px;
+  background-color: white;
+  color: #212529;
+  border: none;
+  border-radius: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+footer p {
+  color: #212529;
+  opacity: 70%;
+}
+
+footer h4 {
+  text-align: center;
+  color: black;
+}
+
+footer {
+  margin-top: 150px;
+
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+
+@media (max-width: 952px) {
+  body {
+    font-size: smaller;
+  }
+}
