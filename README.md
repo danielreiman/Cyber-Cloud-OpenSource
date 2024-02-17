@@ -18,4 +18,3 @@
 8. **Click** on the "Save" button at the bottom of the page.
 9. Once saved, **your website will be deployed** to GitHub Pages.
 10. You'll be provided with a **URL** where your website is hosted. You can share this URL with others to view your website.
-
