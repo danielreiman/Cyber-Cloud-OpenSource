@@ -2,6 +2,7 @@
 
 # Cyber Cloud - Open Source
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/your_username/your_repository/releases/tag/v1.0.0)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-red)](https://github.com/ChickenRei/Cyber-Cloud-OpenSource/archive/refs/heads/main.zip)
 
 ## Getting Started
 ### Step 1: Download the Project
