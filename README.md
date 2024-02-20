@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/ChickenRei/Cyber-Cloud-OpenSource/blob/3b080267f527e12bc64f4027ef500e9562567641/logo.png)
 
 # Cyber Cloud - Open Source
-[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/your_username/your_repository/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/ChickenRei/Cyber-Cloud-OpenSource)
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-red)](https://github.com/ChickenRei/Cyber-Cloud-OpenSource/archive/refs/heads/main.zip)
 [![Last Commit](https://img.shields.io/github/last-commit/ChickenRei/Cyber-Cloud-OpenSource?color=blue&label=Last%20Commit)](https://github.com/ChickenRei/Cyber-Cloud-OpenSource/commits/main)
 [![Code Size](https://img.shields.io/github/languages/code-size/ChickenRei/Cyber-Cloud-OpenSource?color=yellow&label=Code%20Size)](https://github.com/ChickenRei/Cyber-Cloud-OpenSource)
