@@ -1,3 +1,5 @@
+![Alt text](https://github.com/ChickenRei/Cyber-Cloud-OpenSource/blob/3b080267f527e12bc64f4027ef500e9562567641/logo.png)
+
 # Cyber Cloud - Open Source
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/your_username/your_repository/releases/tag/v1.0.0)
 
