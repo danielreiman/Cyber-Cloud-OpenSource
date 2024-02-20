@@ -1,7 +1,7 @@
 # Cyber Cloud - Open Source
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/your_username/your_repository/releases/tag/v1.0.0)
 
-## Usage
+## Getting Started
 ### Step 1: Download the Project
 
 Make a copy of this project on your local machine, navigate to the repository on GitHub, click on the *Code* button, and select *Download ZIP*. This will download the repository files as a ZIP archive to your computer.
