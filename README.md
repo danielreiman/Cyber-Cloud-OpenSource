@@ -2,9 +2,33 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)](https://github.com/your_username/your_repository/releases/tag/v1.0.0)
 
 ## Usage
+### Step 1: Download the Project
 
-1. **Fork the Project**: Duplicate this project on your local machine by forking the repository.
+Make a copy of this project on your local machine, navigate to the repository on GitHub, click on the *Code* button, and select *Download ZIP*. This will download the repository files as a ZIP archive to your computer.
 
+### Step 2: Create a New Repository
+
+After downloading the project, create a new repository on GitHub to host your version of the project. Make sure the repository is public so others can view and contribute to it.
+
+1. Click on the "+" icon in the upper right corner of GitHub and select "New repository".
+2. Follow the prompts to name your repository. Ensure to select the "Public" option to allow access to everyone.
+3. You can choose to add a README file, a .gitignore file, and select a license if desired.
+4. Once completed, GitHub will direct you to the newly created repository's main page.
+
+### Step 3: Upload the Files to Your New Repository
+
+After creating your new repository on GitHub, you need to upload the project files that you downloaded in Step 1. Here’s how you can do it:
+
+1. Extract the ZIP file you downloaded to a folder on your computer.
+2. Navigate to your new repository on GitHub.
+3. Click on the "Add file" button, then select "Upload files".
+4. Drag and drop the files from the folder where you extracted the ZIP file, or use the "choose your files" link to select the files manually.
+5. Once you have selected all the files you wish to upload, you can add a commit message describing the changes you are making. For example, "Initial project upload."
+6. Click on the "Commit changes" button to upload the files to your repository.
+
+This will upload the project files to your GitHub repository, making them available for development and collaboration.
+
+### Step 4: Required Modifications
 2. **Modify `script.js`**: Follow the instructions in `script.js` to configure Firebase and Firebase Cloud Storage.
 
 ## Deploy Using GitHub Pages
