@@ -11,8 +11,7 @@ Make a copy of this project on your local machine, navigate to the repository on
 After downloading the project, create a new repository on GitHub to host your version of the project. Make sure the repository is public so others can view and contribute to it.
 
 1. Click on the "+" icon in the upper right corner of GitHub and select "New repository".
-2. Follow the prompts to name your repository. Ensure to select the "Public" option to allow access to everyone.
-3. You can choose to add a README file, a .gitignore file, and select a license if desired.
+2. Follow the prompts to name your repository. Ensure to select the "Public" option.
 4. Once completed, GitHub will direct you to the newly created repository's main page.
 
 ### Step 3: Upload the Files to Your New Repository
@@ -29,7 +28,7 @@ After creating your new repository on GitHub, you need to upload the project fil
 This will upload the project files to your GitHub repository, making them available for development and collaboration.
 
 ### Step 4: Required Modifications
-2. **Modify `script.js`**: Follow the instructions in `script.js` to configure Firebase and Firebase Cloud Storage.
+Modify `script.js`: Follow the instructions in `script.js` to configure Firebase and Firebase Cloud Storage.
 
 ## Deploy Using GitHub Pages
 
